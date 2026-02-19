@@ -1,0 +1,6 @@
+train: E:\IITGN\yolo_model_training\train\images  
+
+val: E:\IITGN\yolo_model_training\test\images      
+
+nc: 3   
+names: ["chest", "face","nostril"]  # Class names
