@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #  Screen Apnea – Thermal-Based Respiration Monitoring & Apnea Detection System
 
 _A non-contact thermal imaging system for respiration monitoring and shallow breathing detection using YOLOv8 and signal processing._
@@ -215,7 +214,15 @@ Results:
 - Non-contact monitoring works in natural environments
 
 ---
+
 <h2><a class="anchor" id="sample-output"></a>Sample Output</h2>
+
+
+
+
+![Sample Output](output.png)
+
+
 ---
 
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
