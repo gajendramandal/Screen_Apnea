@@ -217,16 +217,14 @@ Results:
 
 <h2><a class="anchor" id="sample-output"></a>Sample Output</h2>
 
-After uploading image inside `assets/` or `images/` folder:
-
 ```markdown
-![Respiration Signal](images/sample_output.png)
+![Respiration Signal](output.png)
 ```
 
 Or resize using HTML:
 
 ```html
-<img src="images/sample_output.png" width="600">
+<img src="output.png" width="600">
 ```
 
 ---
