@@ -215,15 +215,7 @@ Results:
 - Non-contact monitoring works in natural environments
 
 ---
-
 <h2><a class="anchor" id="sample-output"></a>Sample Output</h2>
-
-
-<h2><a class="anchor" id="sample-output"></a>Sample Output</h2>
-
-![Sample Output](output.png)
-
-
 ---
 
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
