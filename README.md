@@ -218,11 +218,11 @@ Results:
 
 <h2><a class="anchor" id="sample-output"></a>Sample Output</h2>
 
-```markdown
+
 <h2><a class="anchor" id="sample-output"></a>Sample Output</h2>
 
 ![Sample Output](output.png)
-```
+
 
 ---
 
