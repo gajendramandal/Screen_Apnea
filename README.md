@@ -266,13 +266,11 @@ Frameextraction/main_1_0_0.ipynb
 - Real-time embedded deployment
 
 ---
-
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
 **Gajendra Mandal**  
 B.Tech (Hons.) Data Science  
 IIT Gandhinagar (Internship Project)  
 
-🔗 GitHub: https://github.com/gajendramandal  
-📧 Email: gajendramandal2003@gmail.com
-=======
+GitHub: https://github.com/gajendramandal  
+Email: gajendramandal2003@gmail.com
