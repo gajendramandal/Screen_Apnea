@@ -218,11 +218,9 @@ Results:
 
 <h2><a class="anchor" id="sample-output"></a>Sample Output</h2>
 
-```markdown
+<!-- ```markdown
 ![Respiration Signal](output.png)
-```
-
-Or resize using HTML:
+``` -->
 
 ```html
 <img src="output.png" width="600">
