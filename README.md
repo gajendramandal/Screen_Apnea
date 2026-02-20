@@ -218,12 +218,10 @@ Results:
 
 <h2><a class="anchor" id="sample-output"></a>Sample Output</h2>
 
-<!-- ```markdown
-![Respiration Signal](output.png)
-``` -->
+```markdown
+<h2><a class="anchor" id="sample-output"></a>Sample Output</h2>
 
-```html
-<img src="output.png" width="600">
+![Sample Output](output.png)
 ```
 
 ---
